@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Webroot Start'
+project = 'Webroot Config'
 copyright = '2025'
-author = 'Roberta Gellis'
+author = 'Bess Streeter'
 
 release = '1.0'
 
